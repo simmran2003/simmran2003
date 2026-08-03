@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/simmran-agarwal/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+<a href="mailto:simmran2003@gmail.com">
+  <img height = "50" src="https://www.citypng.com/public/uploads/preview/gmail-envelope-hand-drawn-doodle-style-icon-701751695132418yeondpnozx.png" />  
+</a>
 </p>
 
 ---
