@@ -59,7 +59,11 @@ technical_background:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ580-OlRZQadPZQfrxuyXnXpXKQGHkQbFRCMU6rPfOK8_lkxtvxqAaPg&s=10" alt="terraform" width="45" height="45"/>
+<img src="https://avatars.githubusercontent.com/u/28732122?s=280&v=4" alt="localstack" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bm7cV8SETWCt_zUaTEkFtDxJ_jLfhRMvjqTluFsZ_iiCqd2yWuQxbmM&s=10" alt="Junit5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-github-actions/0.32.3/1784139132081/Microsoft.VisualStudio.Services.Icons.Default" alt="githubactions" width ="45" height="45" />
 </p>
 
 <p align="center">
